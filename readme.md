@@ -28,3 +28,8 @@
     - Machine Learning (Classification)
     - Web Development (Personal Portfolio)
     - Automation (Automating an Application/Browser)
+    ## 2. Branching
+    -git branch
+    -git branch name
+    -git checkout name
+    
