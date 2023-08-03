@@ -21,7 +21,7 @@
     - Conditionals
     - Loops
     - Functions
-4. Python File Handling (D14)
+4. Cobra File Handling (D14)
     - Read/Write a File
     - Modify Images
 5. Final Project (D15-D23) (One of these)
@@ -32,4 +32,4 @@
     -git branch
     -git branch name
     -git checkout name
-    
+blah blah blah
