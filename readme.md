@@ -21,10 +21,15 @@
     - Conditionals
     - Loops
     - Functions
-4. Python File Handling (D14)
+4. Cobra File Handling (D14)
     - Read/Write a File
     - Modify Images
 5. Final Project (D15-D23) (One of these)
     - Machine Learning (Classification)
     - Web Development (Personal Portfolio)
     - Automation (Automating an Application/Browser)
+    ## 2. Branching
+    -git branch
+    -git branch name
+    -git checkout name
+blah blah blah blah
